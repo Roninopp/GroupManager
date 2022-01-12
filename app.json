@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/xditya/GroupManager",
+  "repository": " https://github.com/AadarshLegend01/grpmanager011",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
