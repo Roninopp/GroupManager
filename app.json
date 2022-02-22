@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": " https://github.com/AadarshLegend01/GroupManager",
+  "repository": " https://github.com/Roninopp/GroupManager",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
